@@ -20,7 +20,7 @@ The system utilizes sensors and microcontrollers to gather data from the hydropo
 
 ## wirring
 
-<img src="https://github.com/guyBra/hydroponic_monitoring_system/blob/main/photos/EC%26PH_bb.png" width="500" height="500"> 
+<img src="https://github.com/guyBra/hydroponic_monitoring_system/blob/main/photos/EC%26PH_bb.png" width="300" height="500"> 
 
 
 ## Usage
