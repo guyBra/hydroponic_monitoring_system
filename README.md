@@ -22,11 +22,7 @@ The system utilizes sensors and microcontrollers to gather data from the hydropo
 
 <img src="https://github.com/guyBra/hydroponic_monitoring_system/blob/main/photos/EC%26PH_bb.png" width="900" height="300"> 
 
-# Hardware
-
-<ins>Components and links to order</ins>
-
-## hydrophonic kit
+## Equipment
 
 1. 1 X [FireBeetle 2 ESP32-E](https://www.dfrobot.com/product-2195.html)
 2. 1 X [2 relay module](https://he.aliexpress.com/item/4000674991518.html?_t=pvid%3A96b3ccfb-5172-472f-bff4-7ba3991df2b2&afTraceInfo=4000674991518__pc__pcBridgePPC__xxxxxx__1688132729&spm=a2g0o.ppclist.product.mainProduct&gatewayAdapt=glo2isr)
