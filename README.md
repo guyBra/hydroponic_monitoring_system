@@ -18,9 +18,10 @@ The system utilizes sensors and microcontrollers to gather data from the hydropo
 - Alert notifications for critical parameter deviations.
 - User-friendly interface for system control and configuration.
 
-## Installation
+## wirring
 
-To set up the Hydroponic Monitoring System, please follow the instructions provided in the [Installation Guide](installation-guide.md).
+<img src="https://github.com/VikaShol/Agrotech_Lab_2023/blob/main/Photos/Automated%20Watering.png" width="500" height="350"> <img src="https://github.com/VikaShol/Agrotech_Lab_2023/blob/main/Photos/Automated-Watering_1_.jpg" width="300" height="400">
+
 
 ## Usage
 
