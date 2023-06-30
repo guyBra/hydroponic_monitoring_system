@@ -9,7 +9,7 @@ The Hydroponic Monitoring System is a project aimed at creating an automated mon
 Hydroponics is a soilless cultivation method that relies on a nutrient-rich water solution to grow plants. Maintaining optimal EC and pH levels is essential for the health and productivity of the plants. This monitoring system will enable growers to track these parameters in real-time and make necessary adjustments to ensure optimal growing conditions.
 
 The system utilizes sensors and microcontrollers to gather data from the hydroponic setup, which is then processed and displayed on a user interface. Additionally, it offers the functionality to automate nutrient dosing and pH adjustment processes based on the collected data.
-
+<img src="https://github.com/guyBra/hydroponic_monitoring_system/blob/main/photos/Hydroponic.jpeg" width="900" height="300"> 
 ## wirring
 
 <img src="https://github.com/guyBra/hydroponic_monitoring_system/blob/main/photos/EC%26PH_bb.png" width="900" height="300"> 
