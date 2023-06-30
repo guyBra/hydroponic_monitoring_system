@@ -20,7 +20,7 @@ The system utilizes sensors and microcontrollers to gather data from the hydropo
 
 ## wirring
 
-<img src="https://github.com/VikaShol/Agrotech_Lab_2023/blob/main/Photos/Automated%20Watering.png" width="500" height="350"> <img src="https://github.com/VikaShol/Agrotech_Lab_2023/blob/main/Photos/Automated-Watering_1_.jpg" width="300" height="400">
+<img src="https://github.com/guyBra/hydroponic_monitoring_system/blob/main/photos/EC%26PH_bb.png" width="500" height="350"> <img src="https://github.com/VikaShol/Agrotech_Lab_2023/blob/main/Photos/Automated-Watering_1_.jpg" width="300" height="400">
 
 
 ## Usage
