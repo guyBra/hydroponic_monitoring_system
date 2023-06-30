@@ -10,14 +10,6 @@ Hydroponics is a soilless cultivation method that relies on a nutrient-rich wate
 
 The system utilizes sensors and microcontrollers to gather data from the hydroponic setup, which is then processed and displayed on a user interface. Additionally, it offers the functionality to automate nutrient dosing and pH adjustment processes based on the collected data.
 
-## Features
-
-- Real-time monitoring of Electrical Conductivity (EC) and pH levels in the hydroponic system.
-- Data visualization and analysis to track trends and make informed decisions.
-- Automated nutrient dosing and pH adjustment based on the measured values.
-- Alert notifications for critical parameter deviations.
-- User-friendly interface for system control and configuration.
-
 ## wirring
 
 <img src="https://github.com/guyBra/hydroponic_monitoring_system/blob/main/photos/EC%26PH_bb.png" width="900" height="300"> 
@@ -30,34 +22,3 @@ The system utilizes sensors and microcontrollers to gather data from the hydropo
 4. 1 X [TDS sensor](https://he.aliexpress.com/item/1005003817995984.html?pdp_npi=2%40dis%21ILS%21%E2%82%AA31.20%21%E2%82%AA18.40%21%21%21%21%21%402101eac916881328402581862e6365%2112000027263281609%21btf&_t=pvid%3Af3da27b5-bded-4e7f-8c6a-7122763cf93f&afTraceInfo=1005003817995984__pc__pcBridgePPC__xxxxxx__1688132840&spm=a2g0o.ppclist.product.mainProduct&gatewayAdapt=glo2isr)
 5. 1 X [LCD i2c](https://he.aliexpress.com/item/1967124495.html?spm=a2g0o.productlist.main.11.1d99j0JXj0JXqP&algo_pvid=1c3b8538-8e6d-4394-a420-00e4cf93ba2a&aem_p4p_detail=202306300648074520613666399600004039070&algo_exp_id=1c3b8538-8e6d-4394-a420-00e4cf93ba2a-5&pdp_npi=3%40dis%21ILS%212.5%212.31%21%21%21%21%21%40211bd3cb16881328873422561d0761%2112000026259554523%21sea%21IL%211751780303&curPageLogUid=HoTH3FO7lgo8&search_p4p_id=202306300648074520613666399600004039070_6)
 
-## Usage
-
-For detailed usage instructions and system configuration, refer to the [User Manual](user-manual.md).
-
-## Contributing
-
-Contributions to the Hydroponic Monitoring System are welcome! If you have any improvements, bug fixes, or new features to suggest, please follow the guidelines outlined in the [Contribution Guidelines](contributing.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-We would like to acknowledge the following resources and libraries that have contributed to the development of this system:
-
-- [Sensor Library](https://github.com/example/sensor-library): A library for interfacing with the EC and pH sensors.
-- [Data Visualization Toolkit](https://github.com/example/data-visualization-toolkit): A set of tools for visualizing sensor data.
-
-## Contact
-
-For any questions, suggestions, or inquiries, please contact the project maintainers:
-
-- John Smith - john@example.com
-- Jane Doe - jane@example.com
-
-Feel free to open an issue on the GitHub repository if you encounter any problems or need assistance.
-
----
-
-Please note that this is just a template, and you should modify it according to your specific project's details and requirements.
