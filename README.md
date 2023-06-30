@@ -1,7 +1,3 @@
-# hydroponic_monitoring_system
-
-Sure! Here's an example of how you can start the README file for your hydroponic monitoring system repository on GitHub:
-
 # Hydroponic Monitoring System
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
