@@ -10,7 +10,7 @@ Hydroponics is a soilless cultivation method that relies on a nutrient-rich wate
 
 The system utilizes sensors and microcontrollers to gather data from the hydroponic setup, which is then processed and displayed on a user interface. Additionally, it offers the functionality to automate nutrient dosing and pH adjustment processes based on the collected data.
 
-<img src="https://github.com/guyBra/hydroponic_monitoring_system/blob/main/photos/Hydroponic_full.jpeg" width="600" height="400"> 
+<img src="https://github.com/guyBra/hydroponic_monitoring_system/blob/main/photos/Hydroponic_full.jpeg" width="600" height="500"> 
 
 ## System
 <img src="https://github.com/guyBra/hydroponic_monitoring_system/blob/main/photos/system_Outside.jpeg" width="900" height="500"> 
