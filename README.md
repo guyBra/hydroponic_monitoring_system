@@ -13,8 +13,10 @@ The system utilizes sensors and microcontrollers to gather data from the hydropo
 <img src="https://github.com/guyBra/hydroponic_monitoring_system/blob/main/photos/Hydroponic_full.jpeg" width="600" height="500"> 
 
 ## System
-<img src="https://github.com/guyBra/hydroponic_monitoring_system/blob/main/photos/system_Outside.jpeg" width="900" height="500"> 
-<img src="https://github.com/guyBra/hydroponic_monitoring_system/blob/main/photos/system_inside.jpeg" width="900" height="500"> 
+<div style="display: flex;">
+  <img src="https://github.com/guyBra/hydroponic_monitoring_system/blob/main/photos/system_Outside.jpeg" alt="Photo 1" style="width: 50%;">
+  <img src="https://github.com/guyBra/hydroponic_monitoring_system/blob/main/photos/system_inside.jpeg" alt="Photo 2" style="width: 50%;">
+</div>
 
 ## wirring
 
